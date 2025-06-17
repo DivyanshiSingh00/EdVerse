@@ -8,7 +8,7 @@ EdVerse is an innovative edtech platform designed to enhance youth skill develop
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Authentication & Database](#authentication--database)
-- [License](#license)
+- [License](#license.md)
 
 ## About
 EdVerse is designed to facilitate personalized learning for students of various skill levels. The platform allows users to sign in, track their progress, and explore learning content divided into two primary categories: **School** and **Courses**. Each category contains various classes, subjects, quizzes, video lectures, and additional features for better user engagement.
